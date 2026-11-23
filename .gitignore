@@ -1,0 +1,16 @@
+/target
+**/*.rs.bk
+*.log
+.DS_Store
+dist
+.env
+.env.local
+*.env
+!.env.example
+tools/
+session.json
+src/job/onboard.rs
+src/step/mailbox.rs
+src/step/portal.rs
+src/support/consts/net.rs
+src/wire/endpoint.rs
